@@ -1,2 +1,2 @@
-# abdulkaderkhouja.github.com
+# abdulkaderkhouja.github.io
 My personal website
